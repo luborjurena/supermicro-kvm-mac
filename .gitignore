@@ -1,0 +1,14 @@
+# Downloaded BMC session files (short-lived, often contain a host + session token)
+launch.jnlp
+*.jnlp
+
+# Bundled JRE — not redistributed; users supply their own x86_64 Java 8 (see README)
+jdk8u492-b09-jre/
+
+# macOS / editor cruft
+.DS_Store
+._*
+*.swp
+*~
+.idea/
+.vscode/
